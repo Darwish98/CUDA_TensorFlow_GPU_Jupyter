@@ -1,5 +1,5 @@
 FROM nvidia/cuda:11.6.2-cudnn8-devel-ubuntu18.04
-LABEL maintainer="Todor Stoyanov"
+LABEL maintainer="Mohammed Darouich"
 
 # 0 installing CUDA all the way
 WORKDIR /
